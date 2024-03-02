@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">SamuraiBiography</string>
+    <string name="samurai_name"> SamuraiName</string>
+    <string name="description">Description samurai</string>
+
+    <string-array name="data_name">
+        <item>Miyamoto Musashi</item>
+        <item>Shimazu Toyohisa</item>
+        <item>Shimazu Yoshihiro</item>
+        <item>Taira Masakudo</item>
+        <item>Takeda Katsuyori</item>
+        <item>Takena Kahanbei</item>
+        <item>Uesugi Kenshin</item>
+        <item>Yamagata Masakage</item>
+        <item>Yamakawa Hiroshi</item>
+        <item>Yanagisawa Yoshiyasu</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Miyamoto Musashi (宮本 武蔵), whose real name was Shinmen Bennosuke (新免 辨助?) was born on March 12, 1584 in Ōhara-chō in Mimasaka province and died on May 19, and the most famous fencer in the country history.</item>
+        <item>Shimazu Toyohisa (島津 豊久; July 1570 - October 21, 1600), also called Houjumaru (豊寿丸), Tadatoyo (忠豊), Tenrei Shōun Tadatoyo (天岑昌運) or Matashichirou (又七郎), was a samurai of the Shimazu clan, son of Shimazu Iehisa, grandson of Shimazu Yoshihiro and lord of Sadowara Castle. </item>
+        <item>Shimazu Yoshihiro (島津義弘 ; August 21, 1535 - August 30, 1619), also cited as Shimazu Tadahira (島津忠平) and known as Hyogo no kami, was the second son of Shimazu Takahisa .</item>
+        <item>Taira no Masakado (平将門, 903-940) </item>
+        <item>Takeda Katsuyori (jap. 武田 勝頼; b. 1546; April 3, 1582) was a Japanese daimyō of the Sengoku period </item>
+        <item>Takenaka Shigeharu (竹中 重治, September 27, 1544-July 6, 1579), also known as "Hanbei" (半兵衛), was a samurai during the Sengoku period in the 16th century. </item>
+        <item>Uesugi Kenshin (上杉 謙信 February 8, 1530 - April 19, 1578) was a Japanese daimyō who ruled Echigo Province during the Sengoku period of Japanese history.</item>
+        <item>Yamagata Masakage (山県 昌景, born in 1524 and died on June 27, 1575) was one of the 24 generals of Shingen Takeda. .</item>
+        <item> Baron Yamakawa Hiroshi (山川浩) (December 4, 1845 - March 6, 1898) was a Japanese samurai of the late Edo period who became a famous general of the Japanese Imperial Army in the early Meiji era.</item>
+        <item>Yanagisawa Yoshiyasu (柳沢 吉保, December 31, 1658-December 8, 1714) was a samurai of the Edo period. He was a dignitary of the Tokugawa shogunate and a favorite of Tokugawa Tsunayoshi, the fifth shogun.</item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/miyamotomusashi</item>
+        <item>@drawable/shimazutoyohisa</item>
+        <item>@drawable/shimazuyoshihiro</item>
+        <item>@drawable/tairamasakudo</item>
+        <item>@drawable/takedakatsuyori</item>
+        <item>@drawable/takenakahanbei</item>
+        <item>@drawable/uesugikenshin</item>
+        <item>@drawable/yamagatamasakage</item>
+        <item>@drawable/yamakawahiroshi</item>
+        <item>@drawable/yanagisawayoshiyasu</item>
+    </integer-array>
+
+    <string name="about">Profile</string>
+    <string name="profile_name">Rizal Darusman</string>
+    <string name="profile_email">21106050080@student.uin-suka.ac.id</string>
+    <string name="share">Share</string>
+</resources>
